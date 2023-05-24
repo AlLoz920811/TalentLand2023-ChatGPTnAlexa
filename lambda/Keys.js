@@ -1,1 +1,1 @@
-module.exports.OPEN_AI_KEY = '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';
+module.exports.OPEN_AI_KEY = '';
